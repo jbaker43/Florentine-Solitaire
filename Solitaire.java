@@ -170,8 +170,7 @@ public class Solitaire
 					+"It may be used on a foundation pile, but not moved to another tableau pile. When any tableaus are empty you can fill the space with any card."
 					+"When you have made all the moves initially available, begin turning over cards from the stock pile to the waste pile."
 					+" You can move cards from the waste pile to the tableau piles and to the foundations according to the rules above."
-
-You have one redeal.
+					+"You have one redeal.";
 			rulesTextPane.setText(rulesText);
 			ruleFrame.add(scroll = new JScrollPane(rulesTextPane));
 
