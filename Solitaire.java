@@ -39,7 +39,7 @@ public class Solitaire
 	private static CardStack deck; // populated with standard 52 card deck
 
 	// GUI COMPONENTS (top level)
-	private static final JFrame frame = new JFrame("Klondike Solitaire");
+	private static final JFrame frame = new JFrame("Florentine Solitaire");
 	protected static final JPanel table = new JPanel();
 	// other components
 	private static JEditorPane gameTitle = new JEditorPane("text/html", "");
